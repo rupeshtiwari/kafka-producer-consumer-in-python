@@ -1,4 +1,4 @@
-# Kafka Python
+# Kafka Producer & Consumer example in Python
 
 > You will learn how to create Kafka producer and Consumer in python.
 
